@@ -12,10 +12,14 @@
         - Java Script
 - **Framework:**
     - Java EE (Java Servlet)
-
-
-- **IDE:**
-        - Java Script
+- **Packages/Libraries:**
+    - Backend:
+        - Gson: To convert object to JSON
+    - Fronend::
+        - Bootstrap: To design the UI
+        - AnyChart: To plot the graph on the web page
+- **Server:**
+    - Apache Tomcat
 
 
 ## CSV Files: 

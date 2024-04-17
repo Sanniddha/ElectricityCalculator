@@ -3,13 +3,15 @@
 ## Lanugaes and Tools used:
 - **IDE:**
     - Eclipse
-- **IDE:**
+- **Languages:**
     - Backend:
         - Java
     - Fronend::
         - HTML
         - CSS
         - Java Script
+- **Framework:**
+    - Java EE (Java Servlet)
 
 
 ## CSV Files: 

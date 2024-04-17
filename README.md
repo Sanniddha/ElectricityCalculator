@@ -23,5 +23,5 @@
 
 
 ## CSV Files: 
-Here, we used two CSV files. One CSV files contains the solar radiation in each month. This CSV file has three columns. The first columns has name of the months, and the second column has the monthly avg. solar radiation (in kW/m<sup>2</sup>). <br>
+Two CSV files are used here. One CSV files contains the solar radiation in each month. This CSV file has three columns. The first columns has name of the months, and the second column has the monthly avg. solar radiation (in kW/m<sup>2</sup>). <br>
 Similarly, the second CSV files contains the average wind speed in each month. This CSV file has two columns. The first columns has name of the months and second column has the average wind speed of the corresponding months.

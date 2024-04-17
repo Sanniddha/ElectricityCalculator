@@ -31,11 +31,4 @@ Similarly, the second CSV files contains the average wind speed in each month. T
 **Solar Energy Calculation:** <br>
 Energy generated (in kW) by solar panels in a particular month is calculated as follows:
 
-
-- Item 1
-- Item 2
-    - Item 2a (2 tabs)
-    - Item 2b
-        - Item 2b-1 (4 tabs)
-        - Item 2b-2
-
+- $x + y$

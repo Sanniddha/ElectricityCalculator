@@ -2,12 +2,12 @@
 
 ## Lanugaes and Tools used:
 - **IDE:**
-    - Eclipse         
+        - Eclipse         
 - **Programming Language:**
-    - Backend
-            - Java
-    - Frontend
-            - HTML
+        - Backend
+                - Java
+        - Frontend
+                - HTML
 
 
 

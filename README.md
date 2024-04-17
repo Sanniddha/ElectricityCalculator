@@ -36,4 +36,4 @@ $$\text{Energy generated (in kW)} = \text{Area of each solar panel (in $m^2$)} \
 - **Wind Energy Calculation:** <br>
 Energy generated (in kW) by wind turbines in a particular month is calculated as follows:
 
-$$\text{Energy generated (in kW)} = 0.5 \times \text{Density of the air (in kg/$m^3$)} \times \pi $$
+$$\text{Energy generated (in kW)} = 0.5 \times \text{Density of the air (in kg/$m^3$)} \times \pi \text{(Length of the blades in meter)$^2$}  $$

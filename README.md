@@ -5,12 +5,9 @@
     - Eclipse         
 - **Programming Language:**
     - Backend
-                - Java
+            - Java
     - Frontend
-                - HTML
-                - CSS
-                - Java Script
- 
+            - HTML
 
 
 

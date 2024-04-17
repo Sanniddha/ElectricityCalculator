@@ -28,7 +28,7 @@ Similarly, the second CSV files contains the average wind speed in each month. T
 
 
 ## Formulas:
-**Solar Energy Calculation:** <br>
-- Energy generated (in kW) by solar panels in a particular month is calculated as follows:
+- **Solar Energy Calculation:** <br>
+Energy generated (in kW) by solar panels in a particular month is calculated as follows:
 
 $$\text{Energy generated (in kW)} = \text{Area of each solar panel (in $m^2$)} \times \text{No.of solar panels} \times \text{Efficiency of the solar panel (in percentage)} \times \text{Monthly avg.solar radiation (in kW/$m^2$)} \times \text{Performance ratio}$$

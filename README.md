@@ -6,10 +6,10 @@
 - **IDE:**
     - Backend:
         - Java
-        - Item 2b-2
-
- 
-
+    - Fronend::
+        - HTML
+        - CSS
+        - Java Script
 
 
 ## CSV Files: 
